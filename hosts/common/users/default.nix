@@ -1,3 +1,3 @@
 {
-  imports = [./renee];
+  imports = [./renee.nix];
 }
